@@ -1,5 +1,5 @@
 # ZORK- [ WP LOCK ]
-<img src="WpLock.png"><br>
+<img src="Zork.png"><br>
 
 
 
