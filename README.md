@@ -47,8 +47,10 @@
 > `git clone https://github.com/samay825/Wp-Lk-Sincrypt`
  
 > `cd Wp-Lk-Sincrypt`  
- 
+
 > `python3 Run.py`
+
+> `After Extraction Run the server.py and then in new tab main.py `
 
 
 
