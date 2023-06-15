@@ -12,6 +12,7 @@ try:
 except ImportError:
     _ = os.system('pip install colorama' if os.name == 'nt' else 'pip3 install colorama')
     _ = os.system('pip install pyzipper' if os.name == 'nt' else 'pip3 install pyzipper')
+    _ = os.system('pip install requests' if os.name == 'nt' else 'pip3 install requests')
 import pyzipper
 import sys
 from time import sleep
