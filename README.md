@@ -1,15 +1,15 @@
-# ZORK- [ WP LOCK ]
+# S1NNG- [ WP LOCK ]
 <img src="Zork.png"><br>
 
 
 
 
-- What is Wp-Lk-Sincrypt p@id Version System  ?
+- What is Wp-Lock-s1nng p@id Version System  ?
 > This is locker which can lock unlimitedly number wp only.
 > Many times you just want to annoy or play a prank on your friends.
 > If you find yourself in that situation then this WpLock is the perfect tool for you!
 > You can send unlimited Lock to anyone. This awesome app works with every operator/carrier.
-> this tool made by @samay825 
+> this tool made by @s1nng  
 
 <br>
 
@@ -26,7 +26,7 @@
 
 * `No missing issues, all number will be locked once.`
 
-*  For Password Contact Instagram : sincryptzork
+*  For Password Contact Instagram : s1nng
 
 <br>
 
@@ -58,6 +58,6 @@
 
 <h3>Visitors :</h3>
 <br>
-<img src="https://profile-counter.glitch.me/samay825/count.svg" alt="Visitors">
+<img src="https://profile-counter.glitch.me/s1nng/count.svg" alt="Visitors">
 
 
